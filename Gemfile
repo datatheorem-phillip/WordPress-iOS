@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'cocoapods', '~> 1.11'
-gem 'commonmarker'
+gem 'commonmarker', '>= 0.23.10'
 gem 'danger', '~> 8.6'
 gem 'danger-rubocop', '~> 0.10'
 gem 'dotenv'

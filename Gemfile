@@ -2,12 +2,12 @@
 
 source 'https://rubygems.org'
 
-gem 'cocoapods', '~> 1.11'
+gem 'cocoapods', '~> 1.12', '>= 1.12.0'
 gem 'commonmarker'
 gem 'danger', '~> 8.6'
 gem 'danger-rubocop', '~> 0.10'
 gem 'dotenv'
-gem 'fastlane', '~> 2.174'
+gem 'fastlane', '~> 2.212', '>= 2.212.2'
 gem 'fastlane-plugin-appcenter', '~> 1.8'
 gem 'fastlane-plugin-sentry'
 # This comment avoids typing to switch to a development version for testing.

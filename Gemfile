@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'cocoapods', '~> 1.11'
+gem 'cocoapods', '~> 1.16', '>= 1.16.0'
 gem 'commonmarker'
 gem 'danger', '~> 8.6'
 gem 'danger-rubocop', '~> 0.10'
@@ -15,7 +15,7 @@ gem 'fastlane-plugin-sentry'
 gem 'fastlane-plugin-wpmreleasetoolkit', '~> 7.0'
 gem 'octokit', '~> 4.0'
 gem 'rake'
-gem 'rubocop', '~> 1.30'
+gem 'rubocop', '~> 1.66', '>= 1.66.0'
 gem 'rubocop-rake', '~> 0.6'
 gem 'xcpretty-travis-formatter'
 
